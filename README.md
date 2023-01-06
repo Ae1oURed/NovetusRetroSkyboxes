@@ -1,7 +1,6 @@
 # NovetusRetroSkyboxes
 
-a bunch of skyboxes i found from 
-https://vladislavzh.net
+a bunch of skyboxes i found online, i can't remember what the original site is.
 
 slowly being made into skyboxes for novetus, with RBXM files, these files are being hosted on github to allow easier loading for users playing the game.
 images are edited aswell to line up with roblox's weird skybox.
